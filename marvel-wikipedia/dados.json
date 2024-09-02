@@ -1,0 +1,910 @@
+[
+  {
+    "char": "Spider-Man",
+    "summary": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 in the Silver Age of Comic Books. He has been featured in comic books, television shows, films, video games, novels, and plays."
+  },
+  {
+    "char": "Captain America",
+    "summary": "Captain America is a superhero created by Joe Simon and Jack Kirby who appears in American comic books published by Marvel Comics. The character first appeared in Captain America Comics #1, published on December 20, 1940, by Timely Comics, a corporate predecessor to Marvel. Captain America's civilian identity is Steve Rogers, a frail man enhanced to the peak of human physical perfection by an experimental \"super-soldier serum\" after joining the United States Army to aid the country's efforts in World War II. Equipped with an American flag–inspired costume and a virtually indestructible shield, Captain America and his sidekick Bucky Barnes clashed frequently with the villainous Red Skull and other members of the Axis powers. In the final days of the war, an accident left Captain America frozen in a state of suspended animation until he was revived in modern times. He resumes his exploits as a costumed hero and becomes leader of the superhero team the Avengers, but frequently struggles as a \"man out of time\" to adjust to the new era."
+  },
+  {
+    "char": "Iron Man",
+    "summary": "Iron Man is a superhero appearing in American comic books published by Marvel Comics. Co-created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby, the character first appeared in Tales of Suspense #39 in 1962 and received his own title with Iron Man #1 in 1968. Shortly after his creation, Iron Man became a founding member of the superhero team, the Avengers, alongside Thor, Ant-Man, the Wasp, and the Hulk. Iron Man stories, individually and with the Avengers, have been published consistently since the character's creation."
+  },
+  {
+    "char": "Thor",
+    "summary": "Thor is a prominent god in Germanic paganism. In Norse mythology, he is a hammer-wielding god associated with lightning, thunder, storms, sacred groves and trees, strength, the protection of humankind, hallowing, and fertility. Besides Old Norse Þórr, the deity occurs in Old English as Þunor (\"Thunor\"), in Old Frisian as Thuner, in Old Saxon as Thunar, and in Old High German as Donar, all ultimately stemming from the Proto-Germanic theonym *Þun(a)raz, meaning 'Thunder'."
+  },
+  {
+    "char": "Hulk",
+    "summary": "The Incredible Hulk is a superhero appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk. In his comic book appearances, the character, who has dissociative identity disorder (DID), is primarily represented by the alter ego Hulk, a green-skinned, hulking, and muscular humanoid possessing a limitless degree of physical strength, and the alter ego Dr. Robert Bruce Banner, a physically weak, socially withdrawn, and emotionally reserved physicist, both of whom typically resent each other."
+  },
+  {
+    "char": "Black Widow",
+    "summary": "Black widow may refer to:"
+  },
+  {
+    "char": "Doctor Strange",
+    "summary": "Dr. Stephen Vincent Strange is a character appearing in American comic books published by Marvel Comics. Created by Steve Ditko, the character first appeared in Strange Tales #110. Doctor Strange serves as the Sorcerer Supreme, the primary protector of Earth against magical and mystical threats. Strange was introduced during the Silver Age of Comic Books in an attempt to bring a different kind of character and themes of mysticism to Marvel Comics."
+  },
+  {
+    "char": "Black Panther",
+    "summary": "A black panther is a colour variant of any Panthera, particularly of the leopard and the jaguar."
+  },
+  {
+    "char": "Wolverine",
+    "summary": "The wolverine, also called the carcajou or quickhatch, is the largest land-dwelling member of the family Mustelidae. It is a muscular carnivore and a solitary animal. The wolverine has a reputation for ferocity and strength out of proportion to its size, with the documented ability to kill prey many times larger than itself."
+  },
+  {
+    "char": "Storm",
+    "summary": "\nA storm is any disturbed state of the natural environment or the atmosphere of an astronomical body. It may be marked by significant disruptions to normal conditions such as strong wind, tornadoes, hail, thunder and lightning, heavy precipitation, heavy freezing rain, strong winds, wind transporting some substance through the atmosphere such as in a dust storm, among other forms of severe weather."
+  },
+  {
+    "char": "Deadpool",
+    "summary": "Deadpool is a character appearing in American comic books published by Marvel Comics. Created by Fabian Nicieza and Rob Liefeld, the character first appeared in New Mutants #98. In his comic book appearances, Deadpool is initially depicted as a supervillain of the New Mutants and X-Force, though later stories would portray him as an antihero. Deadpool is the alter ego of Wade Wilson, a disfigured Canadian mercenary with superhuman regenerative healing abilities. He is known for his tendency to joke incessantly and break the fourth wall for humorous effect."
+  },
+  {
+    "char": "Jessica Jones",
+    "summary": "Jessica Campbell Jones-Cage, professionally known as Jessica Jones, is a superheroine appearing in American comic books published by Marvel Comics. The character was created by writer Brian Michael Bendis and artist Michael Gaydos and first appeared in Alias #1 as part of Marvel's Max, an imprint for more mature content, and was later retroactively established to have first appeared in The Amazing Spider-Man #4 in the Silver Age of Comic Books as an originally unnamed classmate of Peter Parker, created by writer-editor Stan Lee and artist Steve Ditko. Within the context of Marvel's shared universe, Jones is a former superhero who becomes the owner of Alias Private Investigations. Bendis envisioned the series as centered on Jessica Drew and only decided to create Jones once he realized that the main character he was writing had a distinct-enough voice and background to differentiate her from Drew, though deciding to still name the character after her on the basis of how \"two [people] can have the same first name\"."
+  },
+  {
+    "char": "Luke Cage",
+    "summary": "Lucas \"Luke\" Cage, born Carl Lucas and also known as Power Man, is a character appearing in American comic books published by Marvel Comics. Created by Archie Goodwin, George Tuska, Roy Thomas, and John Romita Sr., the character first appeared in Luke Cage, Hero for Hire #1. He is one of the earliest black superheroes to be featured as the protagonist and title character of a Marvel comic book."
+  },
+  {
+    "char": "Daredevil",
+    "summary": "Daredevil may refer to:"
+  },
+  {
+    "char": "Moon Knight",
+    "summary": "Moon Knight is a character appearing in American comic books published by Marvel Comics. Created by writer Doug Moench and artist Don Perlin, the character first appeared in Werewolf by Night #32."
+  },
+  {
+    "char": "Hawkeye",
+    "summary": "Hawkeye may refer to:"
+  },
+  {
+    "char": "Falcon",
+    "summary": "Falcons are birds of prey in the genus Falco, which includes about 40 species. Some small species of falcons with long, narrow wings are called hobbies, and some that hover while hunting are called kestrels. Falcons are widely distributed on all continents of the world except Antarctica, though closely related raptors did occur there in the Eocene."
+  },
+  {
+    "char": "Namor",
+    "summary": "Namor McKenzie, also known as the Sub-Mariner, is a character appearing in American comic books published by Marvel Comics. Created by writer-artist Bill Everett for comic book packager Funnies Inc., the character first appeared in Motion Picture Funnies Weekly #1 (uncirculated). Namor first appeared publicly in Marvel Comics #1. It was the first comic book from Timely Comics, the 1930s–1940s predecessor of Marvel Comics. During that period, known to historians and fans as the Golden Age of Comic Books, the Sub-Mariner was one of Timely's top three characters, along with Captain America and the original Human Torch. Moreover, Namor has also been described as the first comic book antihero."
+  },
+  {
+    "char": "Silver Surfer",
+    "summary": "The Silver Surfer is a fictional character appearing in American comic books published by Marvel Comics. The character also appears in a number of movies, television, and video game adaptations. The character was created by Jack Kirby and first appeared in the comic book Fantastic Four #48, published in 1966."
+  },
+  {
+    "char": "The Punisher",
+    "summary": "The Punisher is an antihero appearing in American comic books published by Marvel Comics. The character was created by writer Gerry Conway and artists John Romita Sr. and Ross Andru. The Punisher made his first appearance in The Amazing Spider-Man #129, originally depicted as an assassin and adversary of the superhero Spider-Man."
+  },
+  {
+    "char": "Elektra",
+    "summary": "Electra, also spelt Elektra, was a daughter of Agamemnon and Clytemnestra in Greek mythology."
+  },
+  {
+    "char": "Shang-Chi",
+    "summary": "Zheng Shang-Chi, also known as the Master of Kung Fu and Brother Hand, is a superhero appearing in American comic books published by Marvel Comics. The character was created by writer Steve Englehart and artist Jim Starlin, debuting in Special Marvel Edition #15 in the Bronze Age of Comic Books, and starring in his own solo title until 1983. Described as the greatest martial artist alive, Shang-Chi has been trained since birth to be the ultimate fighter with a specialization in various unarmed and weaponry-based wushu styles, including the use of the gùn, nunchaku, and jian. Shang-Chi later assumes leadership of the Five Weapons Society and acquires the Ten Rings weapons."
+  },
+  {
+    "char": "Mantis",
+    "summary": "Mantises are an order (Mantodea) of insects that contains over 2,400 species in about 460 genera in 33 families. The largest family is the Mantidae (\"mantids\"). Mantises are distributed worldwide in temperate and tropical habitats. They have triangular heads with bulging eyes supported on flexible necks. Their elongated bodies may or may not have wings, but all Mantodea have forelegs that are greatly enlarged and adapted for catching and gripping prey; their upright posture, while remaining stationary with forearms folded, has led to the common name praying mantis."
+  },
+  {
+    "char": "Groot",
+    "summary": "Groot is a character appearing in American comic books published by Marvel Comics. Created by Stan Lee, Larry Lieber and Jack Kirby, the character first appeared in Tales to Astonish #13. An extraterrestrial, sentient tree-like creature, the original Groot first appeared as an invader that intended to capture humans for experimentation. The character can only say the repeated line \"I am Groot\", but has different meanings depending on context. In the Marvel Cinematic Universe (MCU) franchise, Star-Lord, Thor, Rocket Raccoon, Gamora and Drax the Destroyer are able to understand him."
+  },
+  {
+    "char": "Rocket Raccoon",
+    "summary": "Rocket Raccoon is a character appearing in American comic books published by Marvel Comics. Created by writer Bill Mantlo and artist Keith Giffen, the character first appeared in Marvel Preview #7. He is an intelligent, anthropomorphic raccoon, who is an expert marksman, weapon specialist and master tactician. His name and aspects of his character were inspired by the Beatles' 1968 song \"Rocky Raccoon\". Rocket Raccoon appeared as a prominent member in the 2008 relaunch of the superhero team Guardians of the Galaxy."
+  },
+  {
+    "char": "Star-Lord",
+    "summary": "Star-Lord is a superhero appearing in American comic books published by Marvel Comics. Created by Steve Englehart and Steve Gan, the character first appeared in Marvel Preview #4. The son of human Meredith Quill and Spartoi J'son, Peter Quill assumes the mantle of Star-Lord, an interplanetary policeman."
+  },
+  {
+    "char": "Gamora",
+    "summary": "Gamora is a character appearing in American comic books published by Marvel Comics. Created by writer/artist Jim Starlin, the character first appeared in Strange Tales #180. Gamora is the adopted daughter of Thanos, and the last of her species. Her powers include superhuman strength and agility and an accelerated healing factor. She also is an elite combatant, being able to beat most of the opponents in the galaxy. She is a member of the superhero group known as the Infinity Watch. The character played a role in the 2007 crossover storyline \"Annihilation: Conquest\", becoming a member of the titular team in its spin-off comic, Guardians of the Galaxy, before becoming the supervillain Requiem in the 2018 crossover storylines \"Infinity Countdown\" and \"Infinity Wars\"."
+  },
+  {
+    "char": "Drax",
+    "summary": "Drax may refer to:"
+  },
+  {
+    "char": "Iron Fist",
+    "summary": "Iron Fist, Iron fist or Ironfist may refer to:"
+  },
+  {
+    "char": "Doctor Doom",
+    "summary": "Doctor Doom is a supervillain appearing in American comic books published by Marvel Comics. Created by Stan Lee and Jack Kirby, the character first appeared in The Fantastic Four #5. In his comic book appearances, Doctor Doom is depicted as the monarch of Latveria whose goal is to bring order to humanity through world conquest. He serves as the archenemy of Reed Richards and the Fantastic Four, though he has also come into conflict with other superheroes in the Marvel Universe, including Spider-Man, Iron Man, Doctor Strange, the Black Panther, the X-Men, and the Avengers. While usually portrayed as a villain, Doom has also been an antihero at times, working with heroes if their goals align and only if it benefits him. Doctor Doom was ranked #4 by Wizard on its list of the 101 Greatest Villains of All Time and #3 on IGN's list of the Top 100 Comic Book Villains of All Time. In a later article, IGN would declare Doom as Marvel's greatest villain."
+  },
+  {
+    "char": "Magneto",
+    "summary": "A magneto is an electrical generator that uses permanent magnets to produce periodic pulses of alternating current. Unlike a dynamo, a magneto does not contain a commutator to produce direct current. It is categorized as a form of alternator, although it is usually considered distinct from most other alternators, which use field coils rather than permanent magnets."
+  },
+  {
+    "char": "Jean Grey",
+    "summary": "Jean Elaine Grey is a character appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist/co-plotter Jack Kirby, the character first appeared in The X-Men #1. Jean Grey is a member of a subspecies of humans known as mutants, born with superhuman abilities. She was born with psionic powers. The character has also been known as Marvel Girl, Phoenix and Dark Phoenix at various points in her history."
+  },
+  {
+    "char": "Cyclops",
+    "summary": "In Greek mythology and later Roman mythology, the Cyclopes are giant one-eyed creatures. Three groups of Cyclopes can be distinguished. In Hesiod's Theogony, the Cyclopes are the three brothers, Brontes, Steropes, and Arges, who made Zeus's weapon, the thunderbolt. In Homer's Odyssey, they are an uncivilized group of shepherds, the brethren of Polyphemus encountered by Odysseus. Cyclopes were also famous for being the builders of the Cyclopean walls of Mycenae and Tiryns."
+  },
+  {
+    "char": "Nightcrawler",
+    "summary": "Nightcrawler or nightcrawlers may refer to:"
+  },
+  {
+    "char": "Phoenix",
+    "summary": "Phoenix most often refers to:Phoenix (mythology), an immortal bird in ancient Greek mythology\nPhoenix, Arizona, a city in the United States"
+  },
+  {
+    "char": "Gambit",
+    "summary": "A gambit is a chess opening in which a player sacrifices material with the aim of achieving a subsequent positional advantage."
+  },
+  {
+    "char": "Rogue",
+    "summary": "A rogue is a person or entity that flouts accepted norms of behavior or strikes out on an independent and possibly destructive path."
+  },
+  {
+    "char": "Jubilee",
+    "summary": "A Jubilee is often used to refer to the celebration of a particular anniversary of an event, usually denoting the 25th, 40th, 50th, 60th, and the 70th anniversary. The term comes from the Hebrew bible, initially concerning a recurring religious observance involving a set number of years, that notably involved freeing of debt slaves. Emperors of ancient Rome customarily marked anniversaries of their rule with celebrations, although they did not use the term jubilee. Nonetheless, the term came into English usage from the Bible, together with customary celebration of a reign, and is now often used to denote the celebrations associated with the reign of monarchs after a milestone number of years have passed."
+  },
+  {
+    "char": "Psylocke",
+    "summary": "Psylocke is the name of two connected fictional mutant superheroes appearing in comic books published by Marvel Comics, commonly in association with the X-Men."
+  },
+  {
+    "char": "Mystique",
+    "summary": "Mystique may refer to:Mystique, a personality trait similar to charisma\nMystique (character), a Marvel Comics character associated with the X-Men\nMystique (casino), a casino/greyhound race track in Dubuque, Iowa, USA\nMystique (company), producer of a number of pornographic video games for the Atari 2600 including Custer's Revenge\nMystique, a former illusion show at Blackpool Pleasure Beach, Lancashire, England\nMystique Summers Madison, American drag queen\nMatrox Mystique, 2D, 3D and video acceleration card produced by Matrox in 1996/97\nMercury Mystique, a compact car produced by the Ford Motor Company from 1995 to 2000\nMis-Teeq, an English R&B group\nMusic City Mystique, a Percussion Independent World (PIW) Drumline from Nashville, Tennessee"
+  },
+  {
+    "char": "Sabretooth",
+    "summary": "Sabretooth or sabertooth may refer to:"
+  },
+  {
+    "char": "Apocalypse",
+    "summary": "Apocalypse is a literary genre originating in Judaism in the centuries following the Babylonian exile but persisting in Christianity and Islam. In it a supernatural being reveals cosmic mysteries or the future to a human intermediary. The means of mediation include dreams, visions and heavenly journeys, and they typically feature symbolic imagery drawn from the Jewish Bible, cosmological and (pessimistic) historical surveys, the division of time into periods, esoteric numerology, and claims of ecstasy and inspiration. Almost all are written under pseudonyms, claiming as author a venerated hero from previous centuries, as with the Book of Daniel, composed during the 2nd century BCE but bearing the name of the legendary Daniel from the 6th century BCE."
+  },
+  {
+    "char": "Cable",
+    "summary": "Cable may refer to:"
+  },
+  {
+    "char": "X-23",
+    "summary": "Laura Kinney is a fictional superheroine appearing in American comic books published by Marvel Comics, commonly in association with Wolverine, whose codename she has also used, and the X-Men. The character was created by writer Craig Kyle for the X-Men: Evolution television series in 2003, before debuting in the NYX comic series in 2004. Since then she has headlined two six-issue miniseries written by Kyle and Christopher Yost, the X-23 (2010) one-shot and the 2010 X-23 ongoing series written by Marjorie Liu, the 2015 All-New Wolverine ongoing series by writer Tom Taylor, and the 2018 X-23 ongoing series by writer Mariko Tamaki. She will next headline in the ongoing series Laura Kinney: Wolverine, scheduled for release in December 2024, by writer Erica Schultz. Laura has also appeared in several team books such as Avengers Academy, New X-Men, X-Force, X-Men Red, X-Men, and NYX . The character also appears in other media from Marvel Entertainment."
+  },
+  {
+    "char": "Scarlet Spider",
+    "summary": "The Scarlet Spider is an alias used by several fictional characters appearing in American comic books published by Marvel Comics, most notably Ben Reilly and Kaine Parker, both of whom are genetic replicates of the superhero Spider-Man."
+  },
+  {
+    "char": "Cloak and Dagger",
+    "summary": "The phrase cloak and dagger describes situations involving intrigue, secrecy, espionage, or mystery."
+  },
+  {
+    "char": "Galactus",
+    "summary": "Galactus is a fictional character appearing in American comic books published by Marvel Comics. Formerly a mortal man, he is a cosmic entity who consumes planets to sustain his life force, and serves a functional role in the upkeep of the primary Marvel continuity. He was created by Stan Lee and Jack Kirby and first appeared in Fantastic Four #48."
+  },
+  {
+    "char": "Doctor Octopus",
+    "summary": "Doctor Octopus, also known as Doc Ock for short, is a fictional character appearing in American comic books published by Marvel Comics. The character was created by Stan Lee and Steve Ditko and first appeared in The Amazing Spider-Man #3. He is a highly intelligent, myopic, and stocky mad scientist who sports four strong and durable appendages resembling an octopus's tentacles, which extend from his body and can be used for various purposes. After his mechanical harness became permanently fused to his body during a lab accident, he turned to a life of crime, and came into conflict with the superhero Spider-Man. He has endured as one of Spider-Man's most prominent villains, and is regarded as one of his three archenemies, alongside the Green Goblin and Venom. He is the founder and leader of the Sinister Six, the first supervillain team to oppose Spider-Man."
+  },
+  {
+    "char": "Green Goblin",
+    "summary": "The Green Goblin is the alias of several supervillains appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Steve Ditko, the first and best-known incarnation of the Green Goblin is Norman Osborn, who is regarded as one of the superhero Spider-Man's three archenemies, alongside Doctor Octopus and Venom. Originally a manifestation of chemically induced insanity, others would later take on the persona, including Norman's son Harry Osborn. The Green Goblin is depicted as a criminal mastermind who uses an arsenal of Halloween-themed equipment, including grenade-like Pumpkin Bombs, razor-sharp bat-shaped blades, and a flying Goblin Glider, to terrorize New York City."
+  },
+  {
+    "char": "Electro",
+    "summary": "Electro or Elektro may refer to:"
+  },
+  {
+    "char": "Vulture",
+    "summary": "A vulture is a bird of prey that scavenges on carrion. There are 23 extant species of vulture. Old World vultures include 16 living species native to Europe, Africa, and Asia; New World vultures are restricted to North and South America and consist of seven identified species, all belonging to the Cathartidae family.\nA particular characteristic of many vultures is a bald, unfeathered head. This bare skin is thought to keep the head clean when feeding, and also plays an important role in thermoregulation."
+  },
+  {
+    "char": "Kraven the Hunter",
+    "summary": "Kraven the Hunter is a character appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Steve Ditko, the character first appeared in The Amazing Spider-Man #15 as an adversary to the superhero Peter Parker / Spider-Man. He since endured as one of the web-slinger's most formidable foes, and is part of the collective of adversaries that make up Spider-Man's rogues' gallery. Kraven has also come into conflict with other heroes, such as Black Panther and Tigra. He is the half-brother of the supervillain Chameleon, and is one of the founding members of the Sinister Six."
+  },
+  {
+    "char": "Jackal",
+    "summary": "Jackals are canids native to Africa and Eurasia. While the word \"jackal\" has historically been used for many canines of the subtribe canina, in modern use it most commonly refers to three species: the closely related black-backed jackal and side-striped jackal of sub-Saharan Africa, and the golden jackal of south-central Europe and Asia. The African golden wolf was also formerly considered a jackal."
+  },
+  {
+    "char": "Ghost Rider",
+    "summary": "Ghost Rider is the name of multiple superheroes or antiheroes appearing in American comic books published by Marvel Comics. Marvel had previously used the name for a Western character whose name was later changed to Phantom Rider."
+  },
+  {
+    "char": "Spider-Woman",
+    "summary": "Spider-Woman is the code name of several fictional characters in comic books published by Marvel Comics. The first major version is Jessica Drew, the second major version is Julia Carpenter, and the third major version is Mattie Franklin. Several alternate reality incarnations of the character have additionally received notoriety, including the Ultimate Spider-Woman, Ashley Barton, and Gwen Stacy."
+  },
+  {
+    "char": "Spider-Man 2099",
+    "summary": "Spider-Man 2099 is a superhero appearing in American comic books published by Marvel Comics. The character was created by Peter David and Rick Leonardi in 1992 for the Marvel 2099 comic book line, and he is a futuristic re-imagining of the original Spider-Man created by Stan Lee and Steve Ditko. His true identity is Miguel O'Hara, an Irish-Mexican geneticist living in Nueva York in the year 2099 who attempts to re-create the abilities of the original Spider-Man in other people and later suffers a related accident that causes half of his DNA to be rewritten with a spider's genetic code."
+  },
+  {
+    "char": "Spider-Gwen",
+    "summary": "Spider-Gwen is an ongoing comic book series published by Marvel Comics that began February 2015. The series revolves around Gwen Stacy of Earth-65, an alternate universe version of Gwen Stacy that debuted in Edge of Spider-Verse #2 as part of the 2014–2015 Spider-Man storyline \"Spider-Verse\". Spider-Gwen explores a universe where Gwen Stacy was bitten by the radioactive spider instead of Peter Parker, leading her to a career as the Spider-Woman of her world."
+  },
+  {
+    "char": "Spider-Punk",
+    "summary": "Spider-Punk is a superhero appearing in American comic books published by Marvel Comics. He is an alternate version of Hobie Brown and Spider-Man; frequent antagonists are President Norman Osborn, V.E.N.O.M., and the Inheritors."
+  },
+  {
+    "char": "Spider-Man Noir",
+    "summary": "Spider-Man Noir, often referred to as Spider-Noir or simply Noir, is a superhero appearing in American comic books published by Marvel Comics. Part of the Marvel Noir universe (Earth-90214), this alternate version of Spider-Man is a noir-themed take on the character and emerges in a version of New York during the Great Depression. While investigating a smuggling ring, Peter Parker is bitten by what seems to be a highly venomous spider housed inside a spider-god idol. Falling unconscious, Parker has a vision of the spider-god promising him power. He then awakes inside a cocoon and emerges from it, now possessing super-human abilities similar to a spider. As the feared vigilante \"the Spider-Man,\" Parker wages a one-man war against the criminal underworld in New York City, partly to avenge the death of his uncle Ben Parker at the hands of the cannibal Adrian Toomes and his mentor Ben Urich at the hands of the city's major crime lord, Norman Osborn. After Osborn's defeat, Spider-Man Noir continues his vigilante life for years and opposes the forces of Nazi Germany even before the United States enters World War II. In contrast to the Peter Parker of mainstream Marvel continuity, Spider-Man Noir initially uses brutal and lethal force against his enemies and later struggles with the moral implications of this."
+  },
+  {
+    "char": "Spider-Man India",
+    "summary": "Spider-Man: India is a superhero comic book series published in India by Gotham Entertainment Group in 2004, retelling the story of Marvel Comics' Spider-Man in an Indian setting. It ran for four issues, which were later also published in the United States in 2005 and collected into a trade paperback (ISBN 0-7851-1640-0). The series was created by Sharad Devarajan, Suresh Seetharaman, and Jeevan J. Kang with Marvel Comics. The titular character of Pavitr Prabhakar / Spider-Man made his cinematic debut in the 2023 feature film Spider-Man: Across the Spider-Verse voiced by Karan Soni, depicted as a member of Miguel O'Hara's Spider-Society."
+  },
+  {
+    "char": "Spider-Girl",
+    "summary": "Spider-Girl is the code name of several fictional characters in comic books published by Marvel Comics. The most prominent version and first to receive an ongoing series is Mayday Parker from the MC2 universe, the second version is Anya Corazon, the third version is Gwen Warren, and the fourth version is Christina Xu, the latter three from the Earth-616 universe. Several alternate reality incarnations of the character have additionally received notoriety, including the Ultimate Spider-Girl, Ashley Barton, Betty Brant, April, Penelope and Petra Parker, and Charlotte Morales."
+  },
+  {
+    "char": "Silk",
+    "summary": "Silk is a natural protein fiber, some forms of which can be woven into textiles. The protein fiber of silk is composed mainly of fibroin and is produced by certain insect larvae to form cocoons. The best-known silk is obtained from the cocoons of the larvae of the mulberry silkworm Bombyx mori reared in captivity (sericulture). The shimmering appearance of silk is due to the triangular prism-like structure of the silk fibre, which allows silk cloth to refract incoming light at different angles, thus producing different colors."
+  },
+  {
+    "char": "Black Cat",
+    "summary": "A black cat is a cat with black fur."
+  },
+  {
+    "char": "Jackpot",
+    "summary": "Jackpot or Jackpot! may refer to:"
+  },
+  {
+    "char": "Ben Reilly",
+    "summary": "Benjamin \"Ben\" Reilly, also known as the Scarlet Spider, is a superhero appearing in American comic books published by Marvel Comics. Grown in a lab by Miles Warren/Jackal, he is a clone of Peter Parker/Spider-Man tasked with fighting him but instead becoming an ally, later even regarded as a \"brother\". Created by writer Gerry Conway, the character first appeared in The Amazing Spider-Man #149 and is seemingly killed in the same issue. The character returned and featured prominently in the 1994–96 \"Clone Saga\" storyline, adopting the \"Scarlet Spider\" alias with a costume similar to Spider-Man's consisting of a red spandex bodysuit and mask complemented by a blue sleeveless hoodie sweatshirt adorned with a large spider symbol on both sides, along with a utility belt and bulkier web-shooters. This Scarlet Spider costume was designed by artist Tom Lyle. When Peter Parker temporarily left the Spider-Man role, Ben became the new Spider-Man while wearing a new costume variation designed by artist Mark Bagley. However, Reilly dies at the hands of Norman Osborn/Green Goblin, sacrificing himself to save Parker who then resumes the Spider-Man role."
+  },
+  {
+    "char": "Kaine Parker",
+    "summary": "Kaine Parker is a character appearing in American comic books published by Marvel Comics. The character has been depicted as a superhero and former supervillain who serves as an ally, an enemy, and foil to Peter Parker/Spider-Man and Ben Reilly. Created by Terry Kavanagh and Steven Butler, the character first appeared in Web of Spider-Man #119 as the Jackal's first failed attempt of a clone of Spider-Man. He later appeared as the new Scarlet Spider in the Marvel Point One one-shot in November 2011 before starring in his own series."
+  },
+  {
+    "char": "Arana",
+    "summary": "Arana may refer to:"
+  },
+  {
+    "char": "Spiral",
+    "summary": "In mathematics, a spiral is a curve which emanates from a point, moving farther away as it revolves around the point. It is a subtype of whorled patterns, a broad group that also includes concentric objects."
+  },
+  {
+    "char": "Shocker",
+    "summary": "Shocker may refer to:Shocker (comics), a supervillain in the Marvel Comics shared universe of comic book series\nIn the Marvel Cinematic Universe:\nJackson Brice / Shocker\nHerman Schultz / Shocker\nShocker (wrestler), a Mexican-American professional wrestler\nShocker, a hand gesture with a sexual connotation\nThe Shocker (band), a musical group led by Jennifer Finch\nWichita State Shockers, the nickname of Wichita State University athletic teams, a contraction of the original term \"Wheatshockers\"\nShocker (film), a 1989 Wes Craven horror film\nShocker, a fictional organization from Kamen Rider\nThe Shocker (album), a 1996 hip hop album by American rapper Silkk the Shocker\nShocker , creature in the Dungeons & Dragons series\nShock site"
+  },
+  {
+    "char": "Kingpin",
+    "summary": "Kingpin or king pin may refer to:"
+  },
+  {
+    "char": "Mephisto",
+    "summary": "Mephisto or Mephistopheles is one of the chief demons of German literary tradition."
+  },
+  {
+    "char": "Dormammu",
+    "summary": "Dormammu is a character appearing in American comic books published by Marvel Comics. Created by Stan Lee and Steve Ditko, the character first appeared in Strange Tales #126. He is the extra and inter-dimensional demonic entity and deity brother of Umar and the uncle of superheroine Clea who rules over the Dark Dimension. The character has endured as a recurring antagonist of the superhero Doctor Strange."
+  },
+  {
+    "char": "Kang",
+    "summary": "Kang may refer to:"
+  },
+  {
+    "char": "Ultron",
+    "summary": "Ultron is a supervillain appearing in American comic books published by Marvel Comics. Created by writer Roy Thomas and artist John Buscema, the character first appeared as an unnamed character in The Avengers #54, with his first full appearance in The Avengers #55. He is a self-aware and highly intelligent artificial intelligence in a robot body who develops a god complex and a grudge against his creator Hank Pym. His goal to destroy humanity in a shortsighted attempt at creating world peace has brought him into repeated conflict with the Avengers. Stories often end in Ultron's apparent destruction, only for the character to be resurrected in new forms."
+  },
+  {
+    "char": "Thanos",
+    "summary": "Thanos is a supervillain appearing in American comic books published by Marvel Comics. Created by writer-artist Jim Starlin, the character first appeared in The Invincible Iron Man #55. An Eternal–Deviant warlord from the moon Titan, Thanos is regarded as one of the most powerful beings in the Marvel Universe. He has clashed with many heroes including the Avengers, the Guardians of the Galaxy, the Fantastic Four, and the X-Men."
+  },
+  {
+    "char": "Ego",
+    "summary": "Ego or EGO may refer to:"
+  },
+  {
+    "char": "Ronan the Accuser",
+    "summary": "Ronan the Accuser is a character appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, he first appeared in Fantastic Four #65. In his comic book appearances, Ronan is depicted as the Supreme Accuser of the Kree Empire, the militaristic government of the alien Kree, and commonly serves as an adversary of superhero teams such as the Fantastic Four, the Avengers, and the Guardians of the Galaxy. Initially portrayed as a supervillain, the character would later be presented as a more noble and honorable figure. Ronan has even been married to the Inhuman Crystal, a princess of the Inhuman Royal Family."
+  },
+  {
+    "char": "Nova",
+    "summary": "A nova is a transient astronomical event that causes the sudden appearance of a bright, apparently \"new\" star that slowly fades over weeks or months. All observed novae involve white dwarfs in close binary systems, but causes of the dramatic appearance of a nova vary, depending on the circumstances of the two progenitor stars. The main sub-classes of novae are classical novae, recurrent novae (RNe), and dwarf novae. They are all considered to be cataclysmic variable stars."
+  },
+  {
+    "char": "Adam Warlock",
+    "summary": "Adam Warlock is a character appearing in American comic books published by Marvel Comics. The character first appeared in Fantastic Four #66–67 created by Stan Lee and Jack Kirby, originally named Him. The character would later be significantly developed by Roy Thomas and Jim Starlin. Debuting in the Silver Age of Comic Books, the character has appeared over several decades of Marvel publications, and starred in the titles Marvel Premiere and Strange Tales as well as five eponymous volumes and several related limited series."
+  },
+  {
+    "char": "M'Baku",
+    "summary": "Man-Ape (M'Baku) is a supervillain appearing in American comic books published by Marvel Comics. Created by Roy Thomas and John Buscema, the character first appeared in The Avengers #62. Man-Ape is depicted as a frequent adversary of the superhero Black Panther."
+  },
+  {
+    "char": "Okoye",
+    "summary": "Okoye is a family name (surname) originating in Nigeria. It is an Anambra dialect derived from the central Igbo name Okorie."
+  },
+  {
+    "char": "Shuri",
+    "summary": "Shuri may refer to:"
+  },
+  {
+    "char": "Klaw",
+    "summary": "Klaw or KLAW may refer to:Klaw (surname)\nKawhi Leonard, American basketball player nicknamed \"the Klaw\"\nKlaw, a fictional villain\nKlaw Theatre, a broadway theatre in Manhattan, New York City\nKLAW, American radio station\nLawton-Fort Sill Regional Airport's ICAO code"
+  },
+  {
+    "char": "Annihilus",
+    "summary": "Annihilus is a supervillain appearing in American comic books published by Marvel Comics, primarily as an adversary to the Fantastic Four. The character debuted in Fantastic Four Annual #6, which was published in November 1968. Annihilus was created by writer Stan Lee and artist Jack Kirby, and was notably featured in the \"Annihilation\" event."
+  },
+  {
+    "char": "Sentry",
+    "summary": "Sentry or The Sentry may refer to:"
+  },
+  {
+    "char": "Hyperion",
+    "summary": "Hyperion may refer to:"
+  },
+  {
+    "char": "Blue Marvel",
+    "summary": "Blue Marvel is a superhero appearing in American comic books published by Marvel Comics. Created by Kevin Grevioux, who originally conceived the character as a child, and Mat Brome, the character first appeared in Adam: Legend of the Blue Marvel #1."
+  },
+  {
+    "char": "Ms. Marvel",
+    "summary": "Ms. Marvel is the name of several superheroines appearing in comic books published by Marvel Comics. The character was originally conceived as a female counterpart to the superhero Mar-Vell / Captain Marvel. Like Captain Marvel, most of the bearers of the Ms. Marvel codename gain their powers through Kree technology or genetics. The first incarnation of Ms. Marvel, Carol Danvers, first appeared in Marvel Super-Heroes #13. The second incarnation, Sharon Ventura, debuted in The Thing #27. The third incarnation, Karla Sofen, made her first appearance in Captain America #192. The fourth and current incarnation, Kamala Khan, made her debut in Captain Marvel #14."
+  },
+  {
+    "char": "Monica Rambeau",
+    "summary": "Monica Rambeau is a superhero appearing in American comic books published by Marvel Comics. Created by writer Roger Stern and artist John Romita Jr., the character first appeared in The Amazing Spider-Man Annual #16. Monica Rambeau gained her superpowers after being bombarded by extra-dimensional energy produced by an energy disruptor weapon. She later joined and eventually became leader of the Avengers for a time. She was also a member of Nextwave and the latest Ultimates team. The character has also been known as Captain Marvel, Photon, Pulsar, and Spectrum at various points in her history."
+  },
+  {
+    "char": "Carol Danvers",
+    "summary": "Carol Susan Jane Danvers is a character appearing in American comic books published by Marvel Comics. Created by writer Roy Thomas and artist Gene Colan, the character first appeared as an officer in the United States Air Force and a colleague of the Kree superhero Mar-Vell in Marvel Super-Heroes #13. Danvers later became the first incarnation of Ms. Marvel in Ms. Marvel #1 after her DNA was fused with Mar-Vell's during an explosion, giving her superhuman powers. Debuting in the Silver Age of comics, the character was featured in a self-titled series in the late 1970s before becoming associated with the superhero teams the Avengers and the X-Men. The character has also been known as Binary, Warbird, and Captain Marvel at various points in her history, and as Vers in the film Captain Marvel."
+  },
+  {
+    "char": "Tigra",
+    "summary": "Tigra is a superheroine appearing in American comic books published by Marvel Comics. Created by writer-editor Roy Thomas and artist Wally Wood, with her early adventures written by Linda Fite, the character first appeared as the superpowered and gadget-wielding crime fighter the Cat in The Claws of the Cat #1. She first appeared as Tigra in Giant-Size Creatures #1, by writer Tony Isabella and artist Don Perlin."
+  },
+  {
+    "char": "Bucky Barnes",
+    "summary": "James Buchanan \"Bucky\" Barnes is a character appearing in American comic books published by Marvel Comics. Originally introduced as a sidekick to Captain America, the character was created by Joe Simon and Jack Kirby and first appeared in Captain America Comics #1. Barnes' original costume and the Bucky nickname have been used by other heroes in the Marvel Universe over the years."
+  },
+  {
+    "char": "Winter Soldier",
+    "summary": "Winter Soldier or Winter Soldiers may refer to:Winter Soldier Investigation, a 1971 inquiry into American war crimes during the Vietnam War\nWinter Soldier (film), a 1972 documentary film chronicling the 1971 Winter Soldier Investigation\nWinter Soldier: Iraq & Afghanistan, a 2008 inquiry into American war crimes during the wars in Iraq and Afghanistan\nWinter Soldier (comics) or Bucky Barnes, a Marvel Comics superhero\nThe Winter Soldier, 2005 story arc establishing the character\nCaptain America: The Winter Soldier, a 2014 superhero film based on the Marvel Comics characters\nThe Falcon and the Winter Soldier, a 2021 superhero television series based on Marvel Comics characters\nThe Winter Soldier (novel), a novel by Daniel Mason\nWinter Soldiers, a 1943 play by Daniel Lewis James\n\n"
+  },
+  {
+    "char": "Ares",
+    "summary": "Ares is the Greek god of war and courage. He is one of the Twelve Olympians, and the son of Zeus and Hera. The Greeks were ambivalent towards him. He embodies the physical valor necessary for success in war but can also personify sheer brutality and bloodlust, in contrast to his sister Athena, whose martial functions include military strategy and generalship. An association with Ares endows places, objects, and other deities with a savage, dangerous, or militarized quality."
+  },
+  {
+    "char": "Hela",
+    "summary": "Hela may refer to:"
+  },
+  {
+    "char": "Sif",
+    "summary": "In Norse mythology, Sif is a golden-haired goddess associated with earth. Sif is attested in the Poetic Edda, compiled in the 13th century from earlier traditional sources, and the Prose Edda, written in the 13th century by Snorri Sturluson, and in the poetry of skalds. In both the Poetic Edda and the Prose Edda, she is known for her golden hair and is married to the thunder god Thor."
+  },
+  {
+    "char": "Balder",
+    "summary": "Baldr is a god in Germanic mythology. In Norse mythology, he is a son of the god Odin and the goddess Frigg, and has numerous brothers, such as Thor and Váli. In wider Germanic mythology, the god was known in Old English as Bældæġ, and in Old High German as Balder, all ultimately stemming from the Proto-Germanic theonym *Balðraz."
+  },
+  {
+    "char": "Tyr",
+    "summary": "Týr is a god in Germanic mythology and member of the Æsir. In Norse mythology, which provides most of the surviving narratives about gods among the Germanic peoples, Týr sacrifices his right hand to the monstrous wolf Fenrir, who bites it off when he realizes the gods have bound him. Týr is foretold of being consumed by the similarly monstrous dog Garmr during the events of Ragnarök."
+  },
+  {
+    "char": "Heimdall",
+    "summary": "In Norse mythology, Heimdall is a god. He is the son of Odin and nine mothers. Heimdall keeps watch for invaders and the onset of Ragnarök from his dwelling Himinbjörg, where the burning rainbow bridge Bifröst meets the sky. He is attested as possessing foreknowledge and keen senses, particularly eyesight and hearing. The god and his possessions are described in enigmatic manners. For example, Heimdall is golden-toothed, \"the head is called his sword,\" and he is \"the whitest of the gods.\""
+  },
+  {
+    "char": "Loki",
+    "summary": "Loki is a god in Norse mythology. Loki is the son of Fárbauti and Laufey, and the brother of Helblindi and Býleistr. Loki is married to the goddess Sigyn and they have two sons, Narfi or Nari and Váli. By the jötunn Angrboða, Loki is the father of Hel, the wolf Fenrir and the world serpent Jörmungandr. In the form of a mare, Loki was impregnated by the stallion Svaðilfari and gave birth to the eight-legged horse Sleipnir."
+  },
+  {
+    "char": "Odin",
+    "summary": "Odin is a widely revered god in Germanic paganism. Norse mythology, the source of most surviving information about him, associates him with wisdom, healing, death, royalty, the gallows, knowledge, war, battle, victory, sorcery, poetry, frenzy, and the runic alphabet, and depicts him as the husband of the goddess Frigg. In wider Germanic mythology and paganism, the god was also known in Old English as Wōden, in Old Saxon as Uuôden, in Old Dutch as Wuodan, in Old Frisian as Wêda, and in Old High German as Wuotan, all ultimately stemming from the Proto-Germanic theonym *Wōðanaz, meaning 'lord of frenzy', or 'leader of the possessed'."
+  },
+  {
+    "char": "Angela",
+    "summary": "Angela may refer to:"
+  },
+  {
+    "char": "Beta Ray Bill",
+    "summary": "Beta Ray Bill is a fictional superhero appearing in American comic books published by Marvel Comics. Debuting in the Bronze Age of Comic Books, the character was initially intended to be a surprise; an apparent monster who unexpectedly turns out to be a great hero. As such, Bill is the first being outside the Marvel Universe's Norse pantheon to be introduced as being worthy to wield Thor's hammer, Mjolnir. After an initial rivalry with Thor for possession of the weapon, the alien warrior was granted a war hammer of his own, called Stormbreaker, and the two reconciled as staunch allies, going on to fight side by side."
+  },
+  {
+    "char": "Valkyrie",
+    "summary": "In Norse mythology, a valkyrie is one of a host of female figures who guide souls of the dead to the god Odin's hall Valhalla. There, the deceased warriors become einherjar. When the einherjar are not preparing for the cataclysmic events of Ragnarök, the valkyries bear them mead. Valkyries also appear as lovers of heroes and other mortals, where they are sometimes described as the daughters of royalty, sometimes accompanied by ravens and sometimes connected to swans or horses."
+  },
+  {
+    "char": "Amora",
+    "summary": "Amora may refer to:"
+  },
+  {
+    "char": "Enchantress",
+    "summary": "Enchantress most commonly refers to:Enchantress (supernatural), a magician, sorcerer, enchanter, wizard; sometimes called an enchantress, sorceress, or witch if female.\nEnchantress (fantasy), a female fictional character who uses magic\nSeduction, the enticement of one person by another, called a seductress or enchantress when it is a beautiful and charismatic woman"
+  },
+  {
+    "char": "Surtur",
+    "summary": "In Norse mythology, Surtr, also sometimes written Surt in English, is a jötunn; he is the greatest of the fire giants, who serves as the guardian of Muspelheim which is along with Niflheim, the only two realms to exist before the beginning of time. Surtr is attested in the Poetic Edda, compiled in the 13th century from earlier traditional sources, and the Prose Edda, written in the 13th century by Snorri Sturluson. In both sources, Surtr is foretold as being a major figure during the events of Ragnarök; carrying his bright sword, he will go to battle against the Æsir, he will battle the major god Freyr, and afterward the flames that he brings forth will engulf the Earth."
+  },
+  {
+    "char": "Malekith",
+    "summary": "Malekith the Accursed is a fictional character appearing in American comic books published by Marvel Comics. He is the ruler of the Dark Elves of Svartalfheim, and has come into conflict with Thor. He once wielded the Casket of Ancient Winters."
+  },
+  {
+    "char": "Nimrod",
+    "summary": "Nimrod is a biblical figure mentioned in the Book of Genesis and Books of Chronicles. The son of Cush and therefore a great-grandson of Noah, Nimrod was described as a king in the land of Shinar. The Bible states that he was \"a mighty hunter before the Lord [and] ... began to be mighty in the earth\". Later extra-biblical traditions identified Nimrod as the ruler who commissioned the construction of the Tower of Babel or Jacob's Ladder based on the Biblical dream of Jacob in Genesis 28:11–19, which led to his reputation as a king who was rebellious against God."
+  },
+  {
+    "char": "Mojo",
+    "summary": "Mojo may refer to:Mojo, a magical charm bag used in Hoodoo"
+  },
+  {
+    "char": "Daken",
+    "summary": "Daken is a fictional character appearing in American comic books published by Marvel Comics. Daken was created by writer Daniel Way and artist Steve Dillon and first appeared in Wolverine: Origins #10\n(March 2007)."
+  },
+  {
+    "char": "Mimic",
+    "summary": "In evolutionary biology, mimicry is an evolved resemblance between an organism and another object, often an organism of another species. Mimicry may evolve between different species, or between individuals of the same species. In the simplest case, as in Batesian mimicry, a mimic resembles a model, so as to deceive a dupe, all three being of different species. A Batesian mimic, such as a hoverfly, is harmless, while its model, such as a wasp, is harmful, and is avoided by the dupe, such as an insect-eating bird. Birds hunt by sight, so the mimicry in that case is visual, but in other cases mimicry may make use of any of the senses. Most types of mimicry, including Batesian, are deceptive, as the mimics are not harmful, but Müllerian mimicry, where different harmful species resemble each other, is honest, as when species of wasps and of bees all have genuinely aposematic warning coloration. More complex types may be bipolar, involving only two species, such as when the model and the dupe are the same; this occurs for example in aggressive mimicry, where a predator in wolf-in-sheep's-clothing style resembles its prey, allowing it to hunt undetected. Mimicry is not limited to animals; in Pouyannian mimicry, an orchid flower is the mimic, resembling a female bee, its model; the dupe is the male bee of the same species, which tries to copulate with the flower, enabling it to transfer pollen, so the mimicry is again bipolar. In automimicry, another bipolar system, model and mimic are the same, as when blue lycaenid butterflies have 'tails' or eyespots on their wings that mimic their own heads, misdirecting predator dupes to strike harmlessly. Many other types of mimicry exist."
+  },
+  {
+    "char": "Abyss",
+    "summary": "Abyss may refer to:"
+  },
+  {
+    "char": "Fantomex",
+    "summary": "Fantomex is a superhero appearing in American comic books published by Marvel Comics. Created by writer Grant Morrison and artist Igor Kordey, the character first appeared in New X-Men #128. Fantomex is an escaped experiment from the Weapon Plus Program. He was designated as Charlie Cluster-7 while growing up in a high tech facility."
+  },
+  {
+    "char": "X-Force",
+    "summary": "The X-Force is a team of superheroes appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men. Conceived by writer/illustrator Rob Liefeld, the team first appeared in New Mutants #100 and soon afterwards was featured in its own series called X-Force. The group was originally a revamped version of the 1980s team, the New Mutants."
+  },
+  {
+    "char": "X-Man",
+    "summary": "Nathaniel \"Nate\" Grey (X-Man) is a superhero appearing in American comic books published by Marvel Comics, commonly in association with the X-Men. Created by writer Jeph Loeb and artist Steve Skroce, the character first appeared in X-Man #1."
+  },
+  {
+    "char": "The Immortal Hulk",
+    "summary": "The Devil Hulk, also known as the Immortal Hulk, is a fictional alternate-personality character appearing in American comic books published by Marvel Comics."
+  },
+  {
+    "char": "Typhoid Mary",
+    "summary": "Mary Mallon, commonly known as Typhoid Mary, was an Irish-born American cook who is believed to have infected between 51 and 122 people with typhoid fever. The infections caused three confirmed deaths, with unconfirmed estimates of as many as 50. She was the first person in the United States identified as an asymptomatic carrier of the pathogenic bacteria Salmonella typhi. She was forcibly quarantined twice by authorities, the second time for the remainder of her life because she persisted in working as a cook and thereby exposed others to the disease. Mallon died after a total of nearly 30 years quarantined. Her popular nickname has since become a term for persons who spread disease or other misfortune."
+  },
+  {
+    "char": "The Hood",
+    "summary": "The Hood is a supervillain appearing in American comic books published by Marvel Comics. Created by writer Brian K. Vaughan, and artists Kyle Hotz and Eric Powell, the character was introduced in his own self-titled limited series, which started with Hood #1. Robbins was originally a petty criminal, until an encounter with a Nisanti demon, which he defeated and robbed of its hood and boots, gaining superpowers in the process, such as levitation and invisibility. As \"the Hood\", he became a well-known figure in the New York City criminal underworld, and eventually formed his own crime syndicate."
+  },
+  {
+    "char": "Lady Deathstrike",
+    "summary": "Lady Deathstrike, occasionally spelled Deathstryke, is a supervillain appearing in American comic books published by Marvel Comics. She is a foe of the X-Men, especially Wolverine."
+  },
+  {
+    "char": "Omega Red",
+    "summary": "Omega Red is a fictional character appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men. In 2009, Omega Red was ranked as IGN's 95th-greatest comic book villain of all time."
+  },
+  {
+    "char": "Spiral",
+    "summary": "In mathematics, a spiral is a curve which emanates from a point, moving farther away as it revolves around the point. It is a subtype of whorled patterns, a broad group that also includes concentric objects."
+  },
+  {
+    "char": "Murmur",
+    "summary": "Murmur usually means:Quiet or indistinct speech\nBreathy voice, a type of phonation in speech, also known as a \"murmured voice\"\nHeart murmur, a pathologic heart sound produced as a result of turbulent blood"
+  },
+  {
+    "char": "Venom",
+    "summary": "Venom or zootoxin is a type of toxin produced by an animal that is actively delivered through a wound by means of a bite, sting, or similar action. The toxin is delivered through a specially evolved venom apparatus, such as fangs or a stinger, in a process called envenomation. Venom is often distinguished from poison, which is a toxin that is passively delivered by being ingested, inhaled, or absorbed through the skin, and toxungen, which is actively transferred to the external surface of another animal via a physical delivery mechanism."
+  },
+  {
+    "char": "Carnage",
+    "summary": "Carnage is a synonym for a massacre, meaning the killing of a large number of people."
+  },
+  {
+    "char": "Toxin",
+    "summary": "A toxin is a naturally occurring poison produced by metabolic activities of living cells or organisms. They occur especially as proteins, often conjugated. The term was first used by organic chemist Ludwig Brieger (1849–1919) and is derived from the word \"toxic\"."
+  },
+  {
+    "char": "Ravage",
+    "summary": "Ravage may refer to:Ravage 2099, a fictional superhero, set in the far future, from Marvel Comics\nRavage, a fictional villain in Marvel Comics and one of the Hulk's enemies\nRavager (comics), name of five fictional comic book characters in the DC Universe\nThe Ravagers (comics), a group of superpowered teens in DC Comics\nRavage (novel), a 1943 novel by René Barjavel\nRavage (EP), 2023 EP by Rema"
+  },
+  {
+    "char": "Hobgoblin",
+    "summary": "A hobgoblin is a household spirit, appearing in English folklore, once considered helpful, but which since the spread of Christianity has often been considered mischievous. Shakespeare identifies the character of Puck in his A Midsummer Night's Dream as a hobgoblin."
+  },
+  {
+    "char": "Silver Sable",
+    "summary": "Silver Sable is a character appearing in American comic books published by Marvel Comics. Created by Tom DeFalco and Ron Frenz, Silver Sable first appeared in The Amazing Spider-Man #265. She is usually depicted as a mercenary, hunter of war criminals, leader of the Wild Pack, and owner of Silver Sable International. Her work as a mercenary has sometimes brought her into conflict with several superheroes. Silver Sable is primarily an ally and occasional opponent of Spider-Man."
+  },
+  {
+    "char": "Prowler",
+    "summary": "Prowler may refer to:\"Prowler\", a song by Iron Maiden from Iron Maiden, 1980\nProwler, a Marvel Comics superhero\nProwler, American Comic book series\nThe Prowler , a film starring Van Heflin\n\"The Prowler\" , an episode of the Australian anthology TV series Australian Playhouse\nThe Prowler , a film starring Laurence Tierney and Farley Granger\nProwler, a wooden roller coaster at Worlds of Fun\nProwler (Farscape), a type of spacecraft in Farscape\nPlymouth Prowler, an automobile\nConcept Prowler, an ultralight aircraft\nNorthrop Grumman EA-6B Prowler, an electronic warfare aircraft\nPROWLER, a 1980s experimental sentry robot\nProwler, a member of the Predator monster truck team\nProwler (satellite), an American reconnaissance satellite"
+  },
+  {
+    "char": "The Jackal",
+    "summary": "Jackal is a small animal in the wolf/dog family of mammals."
+  },
+  {
+    "char": "Mister Sinister",
+    "summary": "Mister Sinister is a supervillain appearing in American comic books published by Marvel Comics. Created by writer Chris Claremont, the character was first mentioned as the employer behind the team of assassins known as the Marauders in The Uncanny X-Men #212, and later seen in silhouette in The Uncanny X-Men #213, with both issues serving as chapters of the 1986 \"Mutant Massacre\" crossover. Mr. Sinister then made his first full appearance in The Uncanny X-Men #221. His appearance was designed by artist Marc Silvestri."
+  },
+  {
+    "char": "Sauron",
+    "summary": "Sauron is the title character and the primary antagonist, through the forging of the One Ring, of J. R. R. Tolkien's The Lord of the Rings, where he rules the land of Mordor and has the ambition of ruling the whole of Middle-earth. In the same work, he is identified as the \"Necromancer\" of Tolkien's earlier novel The Hobbit. The Silmarillion describes him as the chief lieutenant of the first Dark Lord, Morgoth. Tolkien noted that the Ainur, the \"angelic\" powers of his constructed myth, \"were capable of many degrees of error and failing\", but by far the worst was \"the absolute Satanic rebellion and evil of Morgoth and his satellite Sauron\". Sauron appears most often as \"the Eye\", as if disembodied."
+  },
+  {
+    "char": "Nanny",
+    "summary": "A nanny is a person who provides child care. Typically, this care is given within the children's family setting. Throughout history, nannies were usually servants in large households and reported directly to the lady of the house. Today, modern nannies, like other domestic workers, may live in or out of the house, depending on their circumstances and those of their employers. Some employment agencies specialize in providing nannies, as there are families that specifically seek them and may make them a part of the household."
+  },
+  {
+    "char": "Razorback",
+    "summary": "A feral pig is a domestic pig which has gone feral, meaning it lives in the wild. The term feral pig has also been applied to wild boars, which can interbreed with domestic pigs. They are found mostly in the Americas and Australia. Razorback and wild hog are sometimes used in the United States refer to feral pigs or boar–pig hybrids."
+  },
+  {
+    "char": "Riptide",
+    "summary": "A rip tide, or riptide, is a strong offshore current that is caused by the tide pulling water through an inlet along a barrier beach, at a lagoon or inland marina where tide water flows steadily out to sea during ebb tide. It is a strong tidal flow of water within estuaries and other enclosed tidal areas. The riptides become the strongest where the flow is constricted. When there is a falling or ebbing tide, the outflow water is strongly flowing through an inlet toward the sea, especially once stabilised by jetties."
+  },
+  {
+    "char": "Sunspot",
+    "summary": "Sunspots are temporary spots on the Sun's surface that are darker than the surrounding area. They are regions of reduced surface temperature caused by concentrations of magnetic flux that inhibit convection. Sunspots appear within active regions, usually in pairs of opposite magnetic polarity. Their number varies according to the approximately 11-year solar cycle."
+  },
+  {
+    "char": "Magik",
+    "summary": "Illyana Nikolaievna Rasputina is a character appearing in American comic books published by Marvel Comics. Created by writer Len Wein and artist Dave Cockrum, the character first appeared in the Giant-Size X-Men #1. llyana Rasputin is a member of a fictional species of humanity known as mutants, who are born with superhuman abilities. She is known under the codename Magik."
+  },
+  {
+    "char": "Hellion",
+    "summary": "Hellion(s) may refer to:"
+  },
+  {
+    "char": "Husk",
+    "summary": "Husk in botany is the outer shell or coating of a seed. In the United States, the term husk often refers to the leafy outer covering of an ear of maize (corn) as it grows on the plant. Literally, a husk or hull includes the protective outer covering of a seed, fruit, or vegetable."
+  },
+  {
+    "char": "M",
+    "summary": "M, or m, is the thirteenth letter of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide. Its name in English is em, plural ems."
+  },
+  {
+    "char": "Marrow",
+    "summary": "Marrow may refer to:"
+  },
+  {
+    "char": "Skin",
+    "summary": "Skin is the layer of usually soft, flexible outer tissue covering the body of a vertebrate animal, with three main functions: protection, regulation, and sensation."
+  },
+  {
+    "char": "Siryn",
+    "summary": "Siryn is a superhero appearing in American comic books published by Marvel Comics. Created by writer Chris Claremont and artist Steve Leialoha, the character first appeared in Spider-Woman #37. Theresa Cassidy belongs to a subspecies of humans called mutants, who are born with superhuman abilities. She possesses a sonic voice providing various effects while her name refers to the Sirens of Greek mythology and their hypnotic voices. She is depicted most commonly in association with the X-Men. Theresa Cassidy is the daughter of the superhero Sean Cassidy. The character has also been known as Siryn and Banshee at various points in her history."
+  },
+  {
+    "char": "Shatterstar",
+    "summary": "Shatterstar (Gaveedra-Seven) is a mutant superhero appearing in American comic books published by Marvel Comics. Created by writer Fabian Nicieza and artist Rob Liefeld, the character first appeared in The New Mutants #99, after which he became a member of the superhero team X-Force. He later became an employee of X-Factor Investigations, a private detective firm starring in the series X-Factor. In 2013, ComicsAlliance ranked Shatterstar as #29 on their list of the \"50 Sexiest Male Characters in Comics\"."
+  },
+  {
+    "char": "Warpath",
+    "summary": "Warpath may refer to:Great Indian Warpath, a network of trails in eastern North America used by Native Americans"
+  },
+  {
+    "char": "Feral",
+    "summary": "A feral animal or plant is one that lives in the wild but is descended from domesticated individuals. As with an introduced species, the introduction of feral animals or plants to non-native regions may disrupt ecosystems and has, in some cases, contributed to extinction of indigenous species. The removal of feral species is a major focus of island restoration."
+  },
+  {
+    "char": "Sage",
+    "summary": "Sage or SAGE may refer to:"
+  },
+  {
+    "char": "Maverick",
+    "summary": "Maverick or Maveric may refer to:"
+  },
+  {
+    "char": "Domino",
+    "summary": "Dominoes is a family of tile-based games played with gaming pieces. Each domino is a rectangular tile, usually with a line dividing its face into two square ends. Each end is marked with a number of spots or is blank. The backs of the tiles in a set are indistinguishable, either blank or having some common design. The gaming pieces make up a domino set, sometimes called a deck or pack. The traditional European domino set consists of 28 tiles, also known as pieces, bones, rocks, stones, men, cards or just dominoes, featuring all combinations of spot counts between zero and six. A domino set is a generic gaming device, similar to playing cards or dice, in that a variety of games can be played with a set. Another form of entertainment using domino pieces is the practice of domino toppling."
+  },
+  {
+    "char": "Witchfire",
+    "summary": "Witchfire is an upcoming first-person shooter video game developed and published by The Astronauts. The game was released for Windows PC in early access in September 2023."
+  },
+  {
+    "char": "Bullseye",
+    "summary": "Bullseye or Bull's Eye may refer to:"
+  },
+  {
+    "char": "Nighthawk",
+    "summary": "The nighthawk is a nocturnal bird of the subfamily Chordeilinae, within the nightjar family, Caprimulgidae, native to the western hemisphere. The term \"nighthawk\", first recorded in the King James Bible of 1611, was originally a local name in England for the European nightjar. Its use in the Americas to refer to members of the genus Chordeiles and related genera was first recorded in 1778."
+  },
+  {
+    "char": "Ricochet",
+    "summary": "A ricochet is a rebound, bounce, or skip off a surface, particularly in the case of a projectile. Most ricochets are caused by accident and while the force of the deflection decelerates the projectile, it can still be energetic and almost as dangerous as before the deflection. The possibility of ricochet is one of the reasons for the common firearms safety rule \"Never shoot a bullet at a flat, hard surface.\" Ricochets can occur with any caliber, but short or round ricocheting bullets may not produce the audible whine caused by tumbling irregular shapes. Ricochets are a hazard of shooting because, for as long as they retain sufficient velocity, ricocheting bullets or bullet fragments may cause collateral damage to animals, objects, or even the person who fired the shot."
+  },
+  {
+    "char": "Spitfire",
+    "summary": "The Supermarine Spitfire is a British single-seat fighter aircraft used by the Royal Air Force and other Allied countries before, during, and after World War II. It was the only British fighter produced continuously throughout the war. The Spitfire remains popular among enthusiasts. Around 70 remain airworthy, and many more are static exhibits in aviation museums throughout the world."
+  },
+  {
+    "char": "Cloak",
+    "summary": "A cloak is a type of loose garment worn over clothing, mostly but not always as outerwear for outdoor wear, serving the same purpose as an overcoat, protecting the wearer from the weather. It may form part of a uniform. People in many different societies may wear cloaks. Over time cloak designs have changed to match fashion and available textiles."
+  },
+  {
+    "char": "Dagger",
+    "summary": "A dagger is a fighting knife with a very sharp point and usually one or two sharp edges, typically designed or capable of being used as a cutting or thrusting weapon. Daggers have been used throughout human history for close combat confrontations, and many cultures have used adorned daggers in ritual and ceremonial contexts. The distinctive shape and historic usage of the dagger have made it iconic and symbolic. A dagger in the modern sense is a weapon designed for close-proximity combat or self-defense; due to its use in historic weapon assemblages, it has associations with assassination and murders. Double-edged knives, however, play different sorts of roles in different social contexts."
+  },
+  {
+    "char": "Giant-Man",
+    "summary": "Giant-Man is the alias used by several superheroes appearing in American comic books published by Marvel Comics."
+  },
+  {
+    "char": "Ant-Man",
+    "summary": "Ant-Man is the name of several superheroes appearing in books published by Marvel Comics."
+  },
+  {
+    "char": "Yellowjacket",
+    "summary": "Yellowjacket or yellow jacket is the common name in North America for predatory social wasps of the genera Vespula and Dolichovespula. Members of these genera are known simply as \"wasps\" in other English-speaking countries. Most of these are black and yellow like the eastern yellowjacket and the aerial yellowjacket ; some are black and white like the bald-faced hornet. Some have an abdomen with a red background color instead of black. They can be identified by their distinctive markings, their occurrence only in colonies, and a characteristic, rapid, side-to-side flight pattern prior to landing. All females are capable of stinging. Yellowjackets are important predators of pest insects."
+  },
+  {
+    "char": "Spider-UK",
+    "summary": "Spider-UK of the Captain Britain Corps, or simply Spider-UK, is the name of several British alternate-reality superheroes appearing in American comic books published in Marvel Comics."
+  },
+  {
+    "char": "Spider-Verse",
+    "summary": "Spider-Verse is a comic book series issued by Marvel Comics since 2014. Its first major event/storyline started on November 5 in The Amazing Spider-Man (2014) #9 along with an individual issue named Spider-Verse Team-Up. This event took 20 publications to be completed and featured nearly every variant of Spider-People and Spider-Man that had appeared in the comics and other media in the over fifty years since Spider-Man's creation, all under attack by Morlun and his family, the Inheritors. This first major storyline, however, was preceded by a full-flagged Spider-Verse series titled Edge of the Spider-Verse, which served to introduce some new characters that would lead the event, such as Spider-Gwen and Miguel O’Hara."
+  },
+  {
+    "char": "Rogue",
+    "summary": "A rogue is a person or entity that flouts accepted norms of behavior or strikes out on an independent and possibly destructive path."
+  },
+  {
+    "char": "Peggy Carter",
+    "summary": "Margaret Elizabeth \"Peggy\" Carter is a fictional character appearing in American comic books published by Marvel Comics. She is usually depicted as a supporting character in books featuring Captain America. Created by writer Stan Lee and artist Jack Kirby, she debuted, unnamed, in Tales of Suspense #75 as a World War II love interest of Steve Rogers in flashback sequences. She would later be better known as the aunt of Sharon Carter."
+  },
+  {
+    "char": "Phil Coulson",
+    "summary": "Agent Phillip J. Coulson is a fictional character portrayed and voiced by Clark Gregg in the Marvel Cinematic Universe (MCU) media franchise. Coulson is depicted as a high-ranking member of the espionage agency S.H.I.E.L.D. and longtime partner of Nick Fury."
+  },
+  {
+    "char": "Maria Hill",
+    "summary": "Commander Maria Christina Hill is a character appearing in American comic books published by Marvel Comics. Created by Brian Michael Bendis and David Finch, the character first appeared in The New Avengers #4. As a former director of S.H.I.E.L.D., she appears in various storylines which often feature the Avengers or members of that group."
+  },
+  {
+    "char": "Jasper Sitwell",
+    "summary": "Jasper Sitwell is a fictional character, an espionage agent appearing in American comic books published by Marvel Comics."
+  },
+  {
+    "char": "Nick Fury Jr.",
+    "summary": "Nicholas Joseph \"Nick\" Fury Jr. is a fictional character appearing in American comic books published by Marvel Comics. He is a son and successor of former U.S. Army hero/super-spy and the intelligence agency S.H.I.E.L.D. director Nick Fury. The character first appeared in Battle Scars #1, which was written by Matt Fraction, Chris Yost, and Cullen Bunn, and penciled by Scot Eaton."
+  },
+  {
+    "char": "Mace",
+    "summary": "Mace may refer to:"
+  },
+  {
+    "char": "Black Knight",
+    "summary": "A black knight is a literary stock character."
+  },
+  {
+    "char": "The Human Torch",
+    "summary": "The Human Torch is a superhero appearing in American comic books published by Marvel Comics. The character is a founding member of the Fantastic Four. He is writer Stan Lee's and artist Jack Kirby's reinvention of a similar, previous character, the android Human Torch of the same name and powers who was created in 1939 by writer-artist Carl Burgos for Marvel Comics' predecessor company, Timely Comics."
+  },
+  {
+    "char": "Invisible Woman",
+    "summary": "The Invisible Woman is a superheroine appearing in American comic books published by Marvel Comics. Created by Stan Lee and Jack Kirby, the character first appeared in The Fantastic Four #1. Susan Storm is a founding member of the Fantastic Four and was the first female superhero created by Marvel during the Silver Age of Comic Books."
+  },
+  {
+    "char": "Reed Richards",
+    "summary": "Mister Fantastic is a superhero appearing in American comic books published by Marvel Comics. He was created by Stan Lee and Jack Kirby. The character is a founding member and the leader of the Fantastic Four. Richards has a mastery of mechanical, aerospace and electrical engineering, chemistry, all levels of physics, and human and alien biology. BusinessWeek listed Mister Fantastic as one of the top ten most intelligent fictional characters in American comics. He is the inventor of the spacecraft that was bombarded by cosmic radiation on its maiden voyage, granting the Fantastic Four their powers. Richards gained the ability to stretch his body into any shape he desires."
+  },
+  {
+    "char": "Sue Storm",
+    "summary": "The Invisible Woman is a superheroine appearing in American comic books published by Marvel Comics. Created by Stan Lee and Jack Kirby, the character first appeared in The Fantastic Four #1. Susan Storm is a founding member of the Fantastic Four and was the first female superhero created by Marvel during the Silver Age of Comic Books."
+  },
+  {
+    "char": "Ben Grimm",
+    "summary": "The Thing is a superhero appearing in American comic books published by Marvel Comics. He is a founding member of the Fantastic Four. The Thing was created by writer-editor Stan Lee and artist Jack Kirby, and he first appeared in The Fantastic Four #1."
+  },
+  {
+    "char": "The Thing",
+    "summary": "Thing or The Thing may refer to:"
+  },
+  {
+    "char": "Franklin Richards",
+    "summary": "Franklin Richards may refer to:Franklin D. Richards (1821–1899), LDS Church apostle\nFranklin S. Richards (1849–1934), general counsel for the LDS Church in the late 19th century\nFranklin D. Richards (1900–1987), former head of the U.S. Federal Housing Administration and a leader in the LDS Church\nFranklin Richards (character), fictional Marvel Comics character, son of Reed Richards and Susan Storm"
+  },
+  {
+    "char": "Valeria Richards",
+    "summary": "Valeria Meghan Richards, originally von Doom, is a fictional character appearing in American comic books published by Marvel Comics. The character has been depicted as the daughter of Mister Fantastic and the Invisible Woman and goddaughter of Doctor Victor von Doom. She is the younger sister of Franklin Richards. Valeria made her first appearance under the code name Marvel Girl and is currently using the name Brainstorm."
+  },
+  {
+    "char": "Medusa",
+    "summary": "In Greek mythology, Medusa, also called Gorgo or the Gorgon, was one of the three Gorgons. Medusa is generally described as a woman with living snakes in place of hair; her appearance was so hideous that anyone who looked upon her was turned to stone. Medusa and her Gorgon sisters Euryale and Stheno were usually described as daughters of Phorcys and Ceto; of the three, only Medusa was mortal."
+  },
+  {
+    "char": "Black Bolt",
+    "summary": "Black Bolt is a character appearing in American comic books published by Marvel Comics. Created by Stan Lee and Jack Kirby, the character first appeared in Fantastic Four #45. Black Bolt is the ruler of Attilan, and a member of the Inhumans, a reclusive race of genetically altered superhumans. Black Bolt's signature power is his voice, as his electron-harnessing ability is linked to the speech center of his brain. Speaking triggers a massive disturbance in the form of a highly destructive shockwave capable of leveling a city. Due to the extreme danger posed by this power, the character has undergone rigorous mental training to prevent himself from uttering a sound, even in his sleep, and he usually remains completely silent and speaks through sign language or via a spokesperson."
+  },
+  {
+    "char": "Crystal",
+    "summary": "A crystal or crystalline solid is a solid material whose constituents are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. In addition, macroscopic single crystals are usually identifiable by their geometrical shape, consisting of flat faces with specific, characteristic orientations. The scientific study of crystals and crystal formation is known as crystallography. The process of crystal formation via mechanisms of crystal growth is called crystallization or solidification."
+  },
+  {
+    "char": "Lockjaw",
+    "summary": "Lockjaw can refer to:"
+  },
+  {
+    "char": "Karnak",
+    "summary": "The Karnak Temple Complex, commonly known as Karnak, comprises a vast mix of temples, pylons, chapels, and other buildings near Luxor, Egypt. Construction at the complex began during the reign of Senusret I in the Middle Kingdom and continued into the Ptolemaic Kingdom, although most of the extant buildings date from the New Kingdom. The area around Karnak was the ancient Egyptian Ipet-isut and the main place of worship of the 18th Dynastic Theban Triad, with the god Amun as its head. It is part of the monumental city of Thebes, and in 1979 it was added to the UNESCO World Heritage List along with the rest of the city. Karnak gets its name from the nearby, and partly surrounded, modern village of El-Karnak, 2.5 kilometres north of Luxor."
+  },
+  {
+    "char": "Gorgon",
+    "summary": "The Gorgons, in Greek mythology, are three monstrous sisters, Stheno, Euryale, and Medusa, said to be the daughters of Phorcys and Ceto. They lived near their sisters the Graeae, and were able to turn anyone who looked at them to stone. Euryale and Stheno were immortal, but Medusa was not and was slain by the hero Perseus."
+  },
+  {
+    "char": "Triton",
+    "summary": "Triton commonly refers to:Triton (mythology), a Greek god\nTriton (moon), a satellite of Neptune"
+  },
+  {
+    "char": "Maximus",
+    "summary": "Maximus is the Latin term for \"greatest\" or \"largest\". In this connection it may refer to:Circus Maximus (disambiguation)\nPontifex maximus, the highest priest of the College of Pontiffs in ancient Rome"
+  },
+  {
+    "char": "Quicksilver",
+    "summary": "Quicksilver may refer to:Quicksilver (metal), the chemical element mercury"
+  },
+  {
+    "char": "Scarlet Witch",
+    "summary": "The Scarlet Witch is a character appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in The X-Men #4 in the Silver Age of Comic Books. Originally said to have the ability to alter probability, the Scarlet Witch has been depicted as a powerful sorceress since the 1980s and on occasion has become powerful enough to alter reality by tapping into greater energy sources."
+  },
+  {
+    "char": "Doctor Voodoo",
+    "summary": " Doctor Voodoo may refer to one of the following fictional characters in Marvel Comics.Daniel Drumm, the first Doctor Voodoo, who becomes a ghost and supervillain after his death.\nJericho Drumm, Daniel's twin brother and former Brother Voodoo, who becomes a new Doctor Voodoo on becoming Sorcerer Supreme.\n"
+  },
+  {
+    "char": "Brother Voodoo",
+    "summary": "Dr. Jericho Drumm is a fictional character appearing in American comic books published by Marvel Comics. He first appeared in Strange Tales #169 as Brother Voodoo. The character was created by Marvel publisher Stan Lee, writer Len Wein, and artist John Romita Sr. Since replacing Doctor Strange as Sorcerer Supreme in The New Avengers #53, the character has been referred to as Doctor Voodoo, a title originally assumed by his evil twin brother Daniel, whose ghost he controls."
+  },
+  {
+    "char": "Shaman",
+    "summary": "Shamanism or samanism is a religious practice that involves a practitioner interacting with the spirit world through altered states of consciousness, such as trance. The goal of this is usually to direct spirits or spiritual energies into the physical world for the purpose of healing, divination, or to aid human beings in some other way."
+  },
+  {
+    "char": "Ancient One",
+    "summary": "The Ancient One is a fictional character appearing in American comic books published by Marvel Comics. He was the mentor of Doctor Strange and was his predecessor as Sorcerer Supreme."
+  },
+  {
+    "char": "Clea",
+    "summary": "Clea Strange is a character appearing in American comic books published by Marvel Comics. Created by Stan Lee and Steve Ditko, Clea first appeared in the Doctor Strange feature in Strange Tales #126. She is a sorceress, the disciple, lover, and eventual wife of Doctor Stephen Strange, and his third successor as Sorcerer Supreme."
+  },
+  {
+    "char": "Bova",
+    "summary": "Bova may refer to:"
+  },
+  {
+    "char": "Misty Knight",
+    "summary": "Mercedes \"Misty\" Knight is a character appearing in American comic books published by Marvel Comics. Created by Tony Isabella and Arvell Jones, the character was first mentioned in Marvel Premiere #20 and first appeared in Marvel Premiere #21."
+  },
+  {
+    "char": "Colleen Wing",
+    "summary": "Colleen Wing is a fictional character appearing in American comic books published by Marvel Comics."
+  },
+  {
+    "char": "Steel Serpent",
+    "summary": "Steel Serpent (Davos) is a supervillain appearing in American comic books published by Marvel Comics. The character is usually depicted as an enemy of Iron Fist."
+  },
+  {
+    "char": "Orson Randall",
+    "summary": "Iron Fist is a fictional character appearing in American comic books published by Marvel Comics. Created by Roy Thomas and Gil Kane, Iron Fist first appeared in Marvel Premiere #15. The character is a practitioner of martial arts and the wielder of a mystical force known as the Iron Fist, which allows him to summon and focus his chi. This ability is obtained from the city of K'un-Lun, which appears on Earth every 10 years."
+  },
+  {
+    "char": "Ward Meachum",
+    "summary": "Ward Meachum is a fictional character appearing in American comic books published by Marvel Comics. In his original comic book appearances, he is depicted as the brother of Harold Meachum and the uncle of Joy Meachum."
+  },
+  {
+    "char": "The Hand",
+    "summary": "A hand is a body part."
+  },
+  {
+    "char": "Heroes for Hire",
+    "summary": "Heroes for Hire are a superhero team appearing in American comic books published by Marvel Comics. The team first appeared in Power Man and Iron Fist #54, and was created by Ed Hannigan and Lee Elias. The team continued to appear in comics regularly over the years, and has made guest appearances in television productions and game environments featuring other superheroes."
+  },
+  {
+    "char": "Infinity Watch",
+    "summary": "The Infinity Watch is the name of three fictional organizations appearing in American comic books published by Marvel Comics. The first version of Infinity Watch was gathered in Warlock and the Infinity Watch #1, and starred in that series until it ended with issue #42. The six members were the self-appointed guardians of the Infinity Gems, which were each given to a single member in order to safeguard against anyone else assembling them into the Infinity Gauntlet."
+  },
+  {
+    "char": "Fantastic Four",
+    "summary": "The Fantastic Four is a superhero team appearing in American comic books published by Marvel Comics. The team debuted in The Fantastic Four #1, helping usher in a new level of realism in the medium. It was the first superhero team created by artist/co-plotter Jack Kirby and editor/co-scripter Stan Lee, and through this title the \"Marvel method\" style of production came into prominence."
+  },
+  {
+    "char": "Guardians of the Galaxy",
+    "summary": "The Guardians of the Galaxy are a fictional superhero team appearing in American comic books published by Marvel Comics."
+  },
+  {
+    "char": "Eros",
+    "summary": "In Greek mythology, Eros is the Greek god of love and sex. His Roman counterpart is Cupid ('desire'). In the earliest account, he is a primordial god, while in later accounts he is described as one of the children of Aphrodite and Ares and, with some of his siblings, was one of the Erotes, a group of winged love gods."
+  },
+  {
+    "char": "Moondragon",
+    "summary": "Moondragon is a character appearing in American comic books published by Marvel Comics. Created by Bill Everett, Mike Friedrich, and George Tuska, the character first appeared in Iron Man #54. She has achieved her extraordinary talents strictly through extreme degrees of personal regimen, unlike most Marvel characters who have gained their paranormal abilities through birth or accident. She is one of the most powerful telepaths on earth. Her abilities also include telekinesis and the power to transform into a dragon. Heather Douglas is known under the codename Moondragon."
+  },
+  {
+    "char": "Phyla-Vell",
+    "summary": "Phyla-Vell is a character appearing in American comic books published by Marvel Comics. Created by Peter David and Paul Azaceta, the character first appeared in Captain Marvel vol. 5 #16. Phyla-Vell is the daughter of superhero Mar-Vell and the sister of Genis-Vell. The character has also been known as Quasar, Captain Marvel, and Martyr at various points in her history."
+  },
+  {
+    "char": "Rich Rider",
+    "summary": "Rich Rider is an American basketball coach. A men's coach at California Lutheran University, with 345 wins and three SCIAC championships. He has also been the assistant athletic director at the university. He retired in November 2016, after 22 years at Cal Lutheran. He accumulated a record of 345-207 in his 22 seasons at CLU with three conference championships and one NCAA Division III tournament appearance. His total record as head coach is 481-311 (.607). Prior to his tenure at Cal Lutheran, Rider coached in the Boise School District. Before that, he was an assistant coach at Boise State, serving under Bobby Dye. He was the head coach at Chapman University from 1973–82, accumulating a 136-104 record and earning an NCAA berth in 1978."
+  },
+  {
+    "char": "The Defenders",
+    "summary": "Defender(s) or The Defender(s) may refer to:"
+  },
+  {
+    "char": "Bullseye",
+    "summary": "Bullseye or Bull's Eye may refer to:"
+  },
+  {
+    "char": "Shang-Chi",
+    "summary": "Zheng Shang-Chi, also known as the Master of Kung Fu and Brother Hand, is a superhero appearing in American comic books published by Marvel Comics. The character was created by writer Steve Englehart and artist Jim Starlin, debuting in Special Marvel Edition #15 in the Bronze Age of Comic Books, and starring in his own solo title until 1983. Described as the greatest martial artist alive, Shang-Chi has been trained since birth to be the ultimate fighter with a specialization in various unarmed and weaponry-based wushu styles, including the use of the gùn, nunchaku, and jian. Shang-Chi later assumes leadership of the Five Weapons Society and acquires the Ten Rings weapons."
+  },
+  {
+    "char": "The Hand",
+    "summary": "A hand is a body part."
+  },
+  {
+    "char": "Hawkeye",
+    "summary": "Hawkeye may refer to:"
+  },
+  {
+    "char": "The Punisher",
+    "summary": "The Punisher is an antihero appearing in American comic books published by Marvel Comics. The character was created by writer Gerry Conway and artists John Romita Sr. and Ross Andru. The Punisher made his first appearance in The Amazing Spider-Man #129, originally depicted as an assassin and adversary of the superhero Spider-Man."
+  },
+  {
+    "char": "Black Widow",
+    "summary": "Black widow may refer to:"
+  },
+  {
+    "char": "Mockingbird",
+    "summary": "Mockingbirds are a group of New World passerine birds from the family Mimidae. They are best known for the habit of some species mimicking the songs of other birds and the sounds of insects and amphibians, often loudly and in rapid succession and for being extremely territorial when raising hatchlings. Studies have shown the ability of some species to identify individual humans and treat them differently based on learned threat assessments."
+  },
+  {
+    "char": "The West Coast Avengers",
+    "summary": "The West Coast Avengers is a fictional group of superheroes appearing in American comic books published by Marvel Comics. The team first appeared in The West Coast Avengers #1, created by Roger Stern and Bob Hall. It was the first spin-off publication for the Avengers."
+  },
+  {
+    "char": "Secret Avengers",
+    "summary": "Secret Avengers is an American comic book series published by Marvel Comics featuring a fictional black ops superhero team of the same name. The series started with Ed Brubaker on writing duties, depicting a black-ops sect of Marvel's premier super hero team, the Avengers, which operates under the guidance and leadership of Captain Steve Rogers. The series is part of the Avengers-line relaunch as part of the \"Heroic Age\"."
+  },
+  {
+    "char": "Ultimates",
+    "summary": "The Ultimates is a superhero comic book series published by Marvel Comics and created by writer Mark Millar and artist Bryan Hitch, which first started publication from The Ultimates #1, as part of the company's Ultimate Marvel imprint. The series is a modernized re-imagining of Marvel's long-running Avengers comic-book franchise, centering around a task-force of super-humans and special agents organized by the U.S. government to combat growing threats to the world. The tale chronicles their progress as they bond and slowly learn to work together, despite their differing natures and personalities."
+  },
+  {
+    "char": "Avengers Assemble",
+    "summary": "\"Avengers, assemble!\" is the rallying cry for the Marvel Comics superhero team the Avengers, as well as its Marvel Cinematic Universe counterpart."
+  },
+  {
+    "char": "The Mighty Avengers",
+    "summary": "The Mighty Avengers is a comic book series that was published by Marvel Comics. Originally written by Brian Michael Bendis, also the writer of New Avengers, the title first featured an officially sanctioned Avengers team of registered superheroes, residing in New York City as part of the Fifty State Initiative, as opposed to the unlicensed team featured in The New Avengers. This first incarnation of the team is led by Iron Man and Ms. Marvel, with the second lineup featuring Hank Pym as the leader, and the third led by Luke Cage and Monica Rambeau."
+  },
+  {
+    "char": "Thunderbolts",
+    "summary": "A thunderbolt or lightning bolt is a symbolic representation of lightning when accompanied by a loud thunderclap. In Indo-European mythology, the thunderbolt was identified with the 'Sky Father'; this association is also found in later Hellenic representations of Zeus and Vedic descriptions of the vajra wielded by the god Indra. It may have been a symbol of cosmic order, as expressed in the fragment from Heraclitus describing \"the Thunderbolt that steers the course of all things\"."
+  },
+  {
+    "char": "Marvel Knights",
+    "summary": "Marvel Knights is an imprint of Marvel Comics that contained standalone material taking place inside the Marvel Universe (Earth-616). The imprint originated in 1998 when Marvel outsourced four titles to Joe Quesada and Jimmy Palmiotti's company Event Comics; Event hired the creative teams for the Knights line while Marvel published them."
+  },
+  {
+    "char": "X-Force",
+    "summary": "The X-Force is a team of superheroes appearing in American comic books published by Marvel Comics, most commonly in association with the X-Men. Conceived by writer/illustrator Rob Liefeld, the team first appeared in New Mutants #100 and soon afterwards was featured in its own series called X-Force. The group was originally a revamped version of the 1980s team, the New Mutants."
+  },
+  {
+    "char": "New Warriors",
+    "summary": "The New Warriors is a fictional superhero team appearing in American comic books published by Marvel Comics. They traditionally consisted of teenage and young adult heroes, and were often seen to serve as a junior counterpart to The Avengers in much the same way that the New Mutants/X-Force did with the X-Men. They made a cameo appearance in The Mighty Thor #411 and made their full debut in The Mighty Thor #412. Over the years, the New Warriors, in their various incarnations, have been featured in five different volumes of the title The New Warriors."
+  },
+  {
+    "char": "Invaders",
+    "summary": "Invader, Invaders, The Invader or INVADER may refer to:"
+  },
+  {
+    "char": "Howling Commandos",
+    "summary": "The Howling Commandos is the name of several fictional groups appearing in American comic books published by Marvel Comics. The team also appears in the franchises developed for other media."
+  }
+]
